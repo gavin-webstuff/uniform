@@ -548,6 +548,7 @@ div.checker input {
   filter: alpha(opacity:0);
   display: inline-block;
   background: none;
+  -moz-appearance: none;
 }
 
 /* Radio */
